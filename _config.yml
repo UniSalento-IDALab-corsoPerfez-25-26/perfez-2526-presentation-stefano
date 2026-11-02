@@ -1,0 +1,20 @@
+theme: jekyll-theme-cayman
+title: Fleet Operations
+description: Stile di guida e manutenzione predittiva per una flotta di auto a noleggio
+lang: it
+
+repository_buttons:
+  - label: Simulatore edge
+    url: https://github.com/UniSalento-IDALab-corsoPerfez-25-26/perfez-2526-edge-simulator-stefano
+  - label: Telemetry Service
+    url: https://github.com/UniSalento-IDALab-corsoPerfez-25-26/perfez-2526-telemetry-service-stefano
+  - label: Fleet Service
+    url: https://github.com/UniSalento-IDALab-corsoPerfez-25-26/perfez-2526-fleet-service-stefano
+  - label: AI Service
+    url: https://github.com/UniSalento-IDALab-corsoPerfez-25-26/perfez-2526-ai-service-stefano
+  - label: Discovery Server
+    url: https://github.com/UniSalento-IDALab-corsoPerfez-25-26/perfez-2526-discovery-server-stefano
+  - label: Dashboard
+    url: https://github.com/UniSalento-IDALab-corsoPerfez-25-26/perfez-2526-fleet-dashboard-stefano
+  - label: Infrastruttura
+    url: https://github.com/UniSalento-IDALab-corsoPerfez-25-26/perfez-2526-infrastructure-stefano
